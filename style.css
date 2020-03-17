@@ -10,6 +10,10 @@ body {
     line-height: 27px;
     background-color: #ccc;
 }
+img{
+    height: 200px;
+    width:200px;
+}
 .wrapper {
     width: 1024px;
     margin: 40px auto;
